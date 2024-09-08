@@ -1,0 +1,15 @@
+.DS_Store
+
+# backup models
+*.*bak
+
+# rhino
+*.rhl
+archive/
+
+# kicad
+*backups/
+*cache
+jlcpcb/
+*.lck
+*.kicad_prl
